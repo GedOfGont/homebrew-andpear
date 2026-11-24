@@ -1,5 +1,5 @@
-# homebrew-notifybridge
+# homebrew-andpear
 
 ```
-brew install --cask GedOfGont/notifybridge/notifybridge
+brew install --cask GedOfGont/andpear/andpear
 ```
